@@ -16,3 +16,6 @@ identifying trends, and making informed business decisions. By analyzing the dat
 - Conducted sensitivity analysis to assess the impact of changes in variables on bike sales performance.
 - Presented analysis findings as Dashboard
 
+
+![image](https://github.com/santhulak/Data-Analytics-Projects/assets/66127023/b6f3465d-1a20-46a4-a045-cb53d3cb1097)
+
