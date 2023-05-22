@@ -1,4 +1,4 @@
-# Data-Analytics-Projects
+# <center>Data-Analytics-Projects</center>
 
 
 ### Bike Sales Data Analysis Using Excel
